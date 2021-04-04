@@ -1,2 +1,2 @@
 # Robert-McM.github.io
-Hi! Welcome to Robert's website!
+Hi and welcome to Robert's website!
