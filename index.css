@@ -164,7 +164,7 @@ header table {
 #rightImage {
     width:95vw;
     height:95vh;
-    background:linear-gradient(0deg,rgba(240, 240, 240, 0.3),rgba(240, 240, 240, 0.3)),url(https://drive.google.com/thumbnail?id={12NRixqfItwtQuPIeTQysjSakrQ5kBdlr}) center center;
+    background:linear-gradient(0deg,rgba(240, 240, 240, 0.3),rgba(240, 240, 240, 0.3)),url("https://robert-mcm.github.io/images/White_coat_photo.png") center center;
     background-size:cover;
     background-repeat:no-repeat;
 }
